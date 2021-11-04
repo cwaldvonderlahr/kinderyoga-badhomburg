@@ -3,9 +3,18 @@
   "scripts": {
     "dev": "nuxt dev",
     "build": "nuxt build",
-    "start": "node .output/server"
+    "start": "node .output/server",
+    "tailwind-config-viewer": "tailwind-config-viewer --open --port 3001"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "autoprefixer": "^10.4.0",
+    "nuxt3": "latest",
+    "postcss": "^8.3.11",
+    "tailwind-config-viewer": "^1.6.2",
+    "tailwindcss": "^2.2.19"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.4.1",
+    "@heroicons/vue": "^1.0.5"
   }
 }
