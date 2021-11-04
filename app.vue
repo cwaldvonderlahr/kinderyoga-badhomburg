@@ -1,9 +1,22 @@
-<script lang="ts" setup>
-  import './assets/tailwind.css'
-</script>
-
 <template>
   <div>
-    <h1 class="text-pink-500">Kinderyoga Bad Homburg</h1>
+    <Menu />
+    <Header />
+    <Studio />
+    <Values />
+    <About />
+    <Contact />
+    <Footer />
   </div>
 </template>
+
+<script setup>
+useMeta({
+  title: "Kinderyoga Bad Homburg",
+  meta: [
+    { hid: "description", name: "description", content: "Kinderyoga Bad Homburg"},
+    { hid: "robots", name: "robots", content: "noindex"}
+  ]
+})
+</script>
+
