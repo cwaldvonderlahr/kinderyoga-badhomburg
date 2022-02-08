@@ -3,8 +3,8 @@
     <Menu />
     <Header />
     <Yoga />
-    <Courses />
     <About />
+    <Courses />
     <Contact />
     <Footer />
   </div>
