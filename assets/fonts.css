@@ -1,0 +1,8 @@
+/* Chalkduster */
+@font-face {
+  font-family: 'Chalkduster';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url('~assets/fonts/chalkduster/Chalkduster.ttf.woff2') format('woff2');
+}
