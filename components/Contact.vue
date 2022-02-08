@@ -17,10 +17,10 @@
             <div>
               <dt class="sr-only">Adresse</dt>
               <dd>
-                <p>Gummibärenstr. 21</p>
-                <p>12345 Yogaland</p>
+                <p>61348 Bad Homburg</p>
               </dd>
             </div>
+            <!--
             <div class="mt-6">
               <dt class="sr-only">Telefon</dt>
               <dd class="flex">
@@ -30,12 +30,13 @@
                 </span>
               </dd>
             </div>
+            -->
             <div class="mt-3">
               <dt class="sr-only">Email</dt>
               <dd class="flex">
                 <MailIcon class="flex-shrink-0 h-6 w-6 text-gray-400" aria-hidden="true" />
                 <span class="ml-3">
-                  kontakt@kinderyoga-badhomburg.de
+                  claudia@kinderyoga-badhomburg.de
                 </span>
               </dd>
             </div>

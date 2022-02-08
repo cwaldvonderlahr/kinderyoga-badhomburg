@@ -2,8 +2,8 @@
   <div>
     <Menu />
     <Header />
-    <Studio />
-    <Values />
+    <Yoga />
+    <Courses />
     <About />
     <Contact />
     <Footer />
