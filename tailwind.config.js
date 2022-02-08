@@ -8,12 +8,16 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        chalkduster: ['Chalkduster', 'sans-serif'],
+      },
       colors: {
         yoga: { /* https://www.instagram.com/p/B7i5l82Fen_/ */
+          brand: "#ee8220",
           red: "#E75A5F",
           redtext: "#FAFADC",
           lightyellow: "#FAFADC",
-          lightyellowtext: "#E75A5F",
+          yellow: "#FEE698",
           yellowtext: "#D67407",
           orange: "#FDB15D",
           orangetext: "#81580A",
