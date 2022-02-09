@@ -1,7 +1,7 @@
 <template>
   <div>
-    <Menu />
     <Header />
+    <Menu />
     <Yoga />
     <About />
     <Courses />
@@ -14,9 +14,12 @@
 useMeta({
   title: "Kinderyoga Bad Homburg",
   meta: [
-    { hid: "description", name: "description", content: "Kinderyoga Bad Homburg"},
-    { hid: "robots", name: "robots", content: "noindex"}
-  ]
-})
+    {
+      hid: "description",
+      name: "description",
+      content: "Kinderyoga Bad Homburg",
+    },
+    { hid: "robots", name: "robots", content: "noindex" },
+  ],
+});
 </script>
-

@@ -1,10 +1,9 @@
 
 <template>
-  <div class="bg-yoga-lightyellow overflow-hidden">
+  <div class="bg-yoga-lightyellow">
     <div class="relative max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
       <div class="mx-auto text-base max-w-prose lg:grid lg:grid-cols-2 lg:gap-8 lg:max-w-none">
         <div>
-          <!-- <h2 class="text-base text-yoga-orange font-semibold tracking-wide uppercase">Das Beste für die Kleinsten</h2> -->
           <h2 class="font-chalkduster mt-2 text-3xl leading-8 font-extrabold tracking-tight text-yoga-brand sm:text-4xl">Kinderyoga</h2>
         </div>
       </div>
