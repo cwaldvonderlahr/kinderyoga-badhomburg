@@ -1,12 +1,8 @@
 <template>
   <div>
-    <Header />
-    <Menu />
-    <Yoga />
-    <About />
-    <Courses />
-    <Contact />
-    <Footer />
+    <NuxtLayout>
+      <NuxtPage/>
+    </NuxtLayout>
   </div>
 </template>
 
