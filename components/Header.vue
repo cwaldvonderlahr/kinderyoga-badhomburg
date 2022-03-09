@@ -7,7 +7,8 @@
             class="rounded-lg object-cover object-center"
             width="1216"
             height="335"
-            src="~/assets/img/logo@2x.jpg"
+            src="/assets/img/logo.jpg"
+            srcset="/assets/img/logo@2x.jpg 2x"
             alt="Logo Kinderyoga Claudia Röske"
           />
         </NuxtLink>
