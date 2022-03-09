@@ -5,8 +5,7 @@
         <NuxtLink to="/">
           <img
             class="rounded-lg object-cover object-center"
-            src="~/assets/img/logo.jpg"
-            srcset="~/assets/img/logo@2x.jpg 2x"
+            src="~/assets/img/logo@2x.jpg"
             alt="Logo Kinderyoga Claudia Röske"
           />
         </NuxtLink>
