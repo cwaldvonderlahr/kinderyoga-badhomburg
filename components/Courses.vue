@@ -12,6 +12,7 @@
                   height="546"
                   src="~/assets/img/yoga-kurse.jpg"
                   alt="Yoga Kurse"
+                  loading="lazy"
                 />
               </div>
             </figure>

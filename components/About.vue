@@ -11,6 +11,7 @@
                 alt="Foto Claudia Röske"
                 width="655"
                 height="873"
+                loading="lazy"
               />
             </div>
           </figure>

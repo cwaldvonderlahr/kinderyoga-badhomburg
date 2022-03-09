@@ -11,6 +11,7 @@
                 height="546"
                 src="~/assets/img/ganesha-messing.jpg"
                 alt="Messing Ganesha"
+                loading="lazy"
               />
             </div>
           </figure>
