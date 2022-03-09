@@ -16,7 +16,6 @@ useMeta({
       name: "description",
       content: "Kinderyoga Bad Homburg - Impressum",
     },
-    { hid: "robots", name: "robots", content: "noindex" },
   ],
 });
 </script>
