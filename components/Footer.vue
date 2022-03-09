@@ -5,7 +5,7 @@
     >
       <div class="mt-8 md:mt-0 md:order-1">
         <p class="text-center text-base text-yoga-orangetext">
-          &copy; 2022 Kinderyoga Bad Homburg - All rights reserved.
+          &copy; 2022 Kinderyoga Bad Homburg  |  <NuxtLink to="/impressum">Impressum</NuxtLink>
         </p>
       </div>
     </div>

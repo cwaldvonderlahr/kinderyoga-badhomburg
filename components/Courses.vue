@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-yoga-lightyellow overflow-hidden">
-    <div class="relative max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
+  <div id="kurse" class="bg-yoga-lightyellow overflow-hidden">
+    <div class="relative max-w-7xl mx-auto py-4 lg:py-16 px-4 sm:px-6 lg:px-8">
       <div class="mt-8 lg:grid lg:grid-cols-2 lg:gap-8">
         <div class="relative lg:row-start-1 lg:col-start-2">
           <div class="relative text-base mx-auto max-w-prose lg:max-w-none">

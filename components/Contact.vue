@@ -1,6 +1,6 @@
 <template>
-  <div class="relative bg-white">
-    <div class="relative max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
+  <div id="kontakt" class="relative bg-white">
+    <div class="relative max-w-7xl mx-auto py-4 lg:py-16 px-4 sm:px-6 lg:px-8">
       <div class="mt-8 lg:grid lg:grid-cols-2 lg:gap-8">
         <div class="relative text-base mx-auto max-w-prose lg:max-w-none">
           <figure>
@@ -21,6 +21,8 @@
             >
               Kontakt
             </h2>
+          </div>
+          <div class="mt-6">
             <p class="mt-3 text-lg leading-6 text-gray-500">
               Fragen, Wünsche, Anregungen? <br />
               Wir freuen uns über jeden Kontakt.
