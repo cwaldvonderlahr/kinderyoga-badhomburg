@@ -8,6 +8,8 @@
               <div class="aspect-w-12 aspect-h-10 lg:aspect-none">
                 <img
                   class="rounded-lg object-cover object-center"
+                  width="655"
+                  height="546"
                   src="~/assets/img/yoga-kurse.jpg"
                   alt="Yoga Kurse"
                 />

@@ -9,8 +9,8 @@
                 class="rounded-lg shadow-lg object-cover object-center"
                 src="~/assets/img/claudia.jpg"
                 alt="Foto Claudia Röske"
-                width="768"
-                height="1024"
+                width="655"
+                height="873"
               />
             </div>
           </figure>
