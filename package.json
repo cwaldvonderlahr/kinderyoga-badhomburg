@@ -7,7 +7,7 @@
     "tailwind-config-viewer": "tailwind-config-viewer --open --port 3001"
   },
   "devDependencies": {
-    "autoprefixer": "10.4.2",
+    "autoprefixer": "10.4.6",
     "nuxt3": "3.0.0-27404660.0f9bcbf",
     "postcss": "8.4.6",
     "tailwind-config-viewer": "^1.6.3",
