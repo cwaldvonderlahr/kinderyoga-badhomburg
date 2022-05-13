@@ -33,22 +33,17 @@
             </p>
           </div>
           <div class="pr-12 mt-8 max-w-prose mx-auto lg:max-w-none">
-            <p class="text-lg text-gray-500">
-              Yoga für Kinder von 7-10 Jahren<br />
-              ab 11.01.2022, 8x jeden Dienstag 15:00-16:00 Uhr<br />
-              bei Shakti Yoga (https://shakti-yoga-oberursel.de/)<br />
-              in der Strackgasse 16, 61440 Oberursel.<br />
-              Ein neuer Kurs startet im März
-            </p>
-          </div>
-
-          <div class="pr-12 mt-8 max-w-prose mx-auto lg:max-w-none">
-            <p class="text-lg text-gray-500">
-              Yoga für Kinder von 7-10 Jahren, ab 05.03.2022, jeden Samstag
-              10:00-11:00 Uhr, Stadtteilzentrum Gartenfeld Bad Homburg
-              Heuchelheimer Straße 92c. Anmeldungen bitte direkt über die Stadt
-              Bad Homburg unter sonja.fariadagraca@bad-homburg.de.
-            </p>
+            <ul class="ml-5 list-outside list-disc text-lg text-gray-500">
+              <li>
+                Yoga für Kinder von 4-6 Jahren, jeden Dienstag 14:00-14:45, bei Shakti Yoga in der Strackgasse 16 in Oberursel
+              </li>
+               <li class="mt-4">
+                Yoga für Kinder von 7-10 Jahren, jeden Dienstag 15:00-16:00 Uhr, bei <a href="https://shakti-yoga-oberursel.de/" class="underline hover:text-gray-800">Shakti Yoga</a> in der Strackgasse 16, 61440 Oberursel
+              </li>
+               <li class="mt-4">
+                Yoga für Kinder von 7-10 Jahren, jeden Samstag 10:00-11:00 Uhr, Stadtteilzentrum Gartenfeld Bad Homburg Heuchelheimer Straße 92c
+              </li>
+            </ul>
           </div>
 
           <div class="pr-12 mt-8 max-w-prose mx-auto lg:max-w-none">
