@@ -47,13 +47,13 @@
 
           <div class="pr-12 mt-8 max-w-prose mx-auto lg:max-w-none">
             <p class="text-lg text-gray-500">
-              Kurse für Kindergärten und Schulen.
+              Kurse für Kindergärten und Schulen
             </p>
           </div>
 
           <div class="pr-12 mt-8 max-w-prose mx-auto lg:max-w-none">
             <p class="text-lg text-gray-500">
-              Privatstunden nach Vereinbarung.
+              Privatstunden nach Vereinbarung
             </p>
           </div>
         </div>
