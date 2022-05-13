@@ -18,9 +18,9 @@ useMeta({
     {
       hid: "description",
       name: "description",
-      content: "Kinderyoga Bad Homburg",
+      content: "Kinderyoga-Kurse für Kinder von 4-12 Jahren in Bad Homburg, Oberursel, Hochtaunuskreis und Frankfurt.",
     },
-    { hid: "robots", name: "robots", content: "noindex" },
+    { hid: "robots", name: "robots", content: "index" },
   ],
 });
 
