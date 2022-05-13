@@ -28,8 +28,7 @@
           </div>
           <div class="pr-12 max-w-prose mx-auto lg:max-w-none">
             <p class="text-lg text-gray-500">
-              Ich biete Kurse und Privatstunden im gesamten Hochtaunuskreis und
-              in Frankfurt an.
+              Ich biete Kurse und Privatstunden im Oberursel, Bad Homburg, dem gesamten Hochtaunuskreis und in Frankfurt an.
             </p>
           </div>
           <div class="pr-12 mt-8 max-w-prose mx-auto lg:max-w-none">
