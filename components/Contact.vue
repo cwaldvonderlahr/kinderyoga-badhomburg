@@ -28,8 +28,7 @@
           <div class="mt-6">
            <div class="max-w-prose mx-auto lg:max-w-none">
               <p class="text-lg leading-6 text-gray-500">
-                Fragen, Wünsche, Anregungen? <br />
-                Wir freuen uns über jeden Kontakt.
+                Ich freue mich über eine Nachricht.
               </p>
 
               <dl class="mt-8 text-base text-gray-500">
