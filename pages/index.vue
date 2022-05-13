@@ -7,6 +7,7 @@
     <Courses />
     <Contact />
     <Footer />
+    <BackToTop />
   </div>
 </template>
 
@@ -22,4 +23,6 @@ useMeta({
     { hid: "robots", name: "robots", content: "noindex" },
   ],
 });
+
+
 </script>
