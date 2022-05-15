@@ -28,7 +28,7 @@
           </div>
           <div class="pr-12 max-w-prose mx-auto lg:max-w-none">
             <p class="text-lg text-gray-500">
-              Ich biete Kurse und Privatstunden im Oberursel, Bad Homburg, dem gesamten Hochtaunuskreis und in Frankfurt an.
+              Ich biete Kurse und Privatstunden in Oberursel, Bad Homburg, Frankfurt und im gesamten Hochtaunuskreis an.
             </p>
           </div>
           <div class="pr-12 mt-8 max-w-prose mx-auto lg:max-w-none">
@@ -47,13 +47,14 @@
 
           <div class="pr-12 mt-8 max-w-prose mx-auto lg:max-w-none">
             <p class="text-lg text-gray-500">
-              Kurse für Kindergärten und Schulen
+              Kurse für Kindergärten, Schulen und Privatstunden nach Vereinbarung
             </p>
           </div>
 
           <div class="pr-12 mt-8 max-w-prose mx-auto lg:max-w-none">
             <p class="text-lg text-gray-500">
-              Privatstunden nach Vereinbarung
+              Anmeldung bitte per E-Mail unter <br/>
+              claudia@kinderyoga-badhomburg.de
             </p>
           </div>
         </div>
