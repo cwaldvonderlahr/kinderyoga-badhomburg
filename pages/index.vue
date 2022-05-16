@@ -13,7 +13,7 @@
 
 <script setup>
 useMeta({
-  title: "Kinderyoga Bad Homburg",
+  title: "Kinderyoga Bad Homburg | Claudia Röske",
   meta: [
     {
       hid: "description",
