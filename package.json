@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
-    "nuxt3": "^3.0.0-rc.4-27611167.a41644e",
+    "nuxt": "3.0.0-rc.4",
     "postcss": "^8.4.14",
     "tailwind-config-viewer": "^1.7.1",
     "tailwindcss": "^3.1.4"
