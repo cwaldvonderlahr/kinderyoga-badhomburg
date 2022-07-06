@@ -12,7 +12,7 @@
           61348 Bad Homburg</p>
 
           <h2 class="mt-8 text-xl leading-6 text-gray-700">Kontakt</h2>
-          <p class="mt-8 text-lg leading-6 text-gray-500">E-Mail: Claudia@kinderyoga-badhomburg.de</p>
+          <p class="mt-8 text-lg leading-6 text-gray-500">E-Mail: <a href="mailto:claudia@kinderyoga-badhomburg.de">claudia@kinderyoga-badhomburg.de</a></p>
 
           <h2 class="mt-8 text-xl leading-6 text-gray-700">EU-Streitschlichtung</h2>
           <p class="mt-8 text-lg leading-6 text-gray-500">Die Europ&auml;ische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href="https://ec.europa.eu/consumers/odr/" target="_blank" rel="noopener noreferrer">https://ec.europa.eu/consumers/odr/</a>.<br /> Unsere E-Mail-Adresse finden Sie oben im Impressum.</p>

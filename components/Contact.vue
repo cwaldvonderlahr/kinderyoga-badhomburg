@@ -39,7 +39,9 @@
                       class="flex-shrink-0 h-6 w-6 text-gray-400"
                       aria-hidden="true"
                     />
-                    <span class="ml-3"> claudia@kinderyoga-badhomburg.de </span>
+                    <span class="ml-3">
+                      <a href="mailto:claudia@kinderyoga-badhomburg.de">claudia@kinderyoga-badhomburg.de</a>
+                    </span>
                   </dd>
                 </div>
               </dl>
