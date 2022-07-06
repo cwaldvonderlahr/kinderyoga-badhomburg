@@ -2,14 +2,14 @@
   <div id="yoga" class="bg-yoga-lightyellow">
     <div class="relative max-w-7xl mx-auto py-4 lg:py-16 px-4 sm:px-6 lg:px-8">
       <div class="mt-8 lg:grid lg:grid-cols-2 lg:gap-8">
-        <div class="relative lg:row-start-1 lg:col-start-2">
+        <div class="relative lg:row-start-1 lg:col-start-2 h-auto">
           <div class="relative text-base mx-auto max-w-prose lg:max-w-none">
             <figure>
-              <div class="aspect-w-12 aspect-h-7 lg:aspect-none">
+              <div class="aspect-w-12 aspect-h-10 lg:aspect-none">
                 <picture>
-                  <source srcset="/img/kinderyoga-am-strand.webp 1x, /img/kinderyoga-am-strand@2x.webp 2x" type="image/webp" width="655" height="382">
-                  <source srcset="/img/kinderyoga-am-strand.jpg 1x, /img/kinderyoga-am-strand@2x.jpg 2x"  width="655" height="382">
-                  <img src="/img/kinderyoga-am-strand.jpg" alt="Kinderyoga am Strand"  width="655" height="382" class="rounded-lg shadow-lg object-cover object-center">
+                  <source srcset="/img/kinderyoga-am-strand.webp 1x, /img/kinderyoga-am-strand@2x.webp 2x" type="image/webp" width="655" height="548">
+                  <source srcset="/img/kinderyoga-am-strand.jpg 1x, /img/kinderyoga-am-strand@2x.jpg 2x"  width="655" height="548">
+                  <img src="/img/kinderyoga-am-strand.jpg" alt="Kinderyoga am Strand"  width="655" height="548" class="rounded-lg shadow-lg object-cover object-center">
                 </picture>
               </div>
             </figure>
