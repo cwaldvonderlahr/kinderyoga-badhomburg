@@ -3,14 +3,11 @@
     <div class="max-w-7xl mx-auto py-6 lg:py-14 px-2 lg:px-8">
       <div class="text-center">
         <NuxtLink to="/">
-          <img
-            class="rounded-lg object-cover object-center"
-            width="1216"
-            height="335"
-            src="/img/logo.jpg"
-            srcset="/img/logo@2x.jpg 2x"
-            alt="Logo Kinderyoga Claudia Röske"
-          />
+          <picture class="rounded-lg object-cover object-center">
+            <source srcset="/img/logo.webp 1x, /img/logo@2x.webp 2x" type="image/webp" width="1216" height="335">
+            <source srcset="/img/logo.jpg 1x, /img/logo@2x.jpg 2x"  width="1216" height="335">
+            <img src="logo.jpg" alt="Logo Kinderyoga Claudia Röske"  width="1216" height="335">
+          </picture>
         </NuxtLink>
       </div>
     </div>
