@@ -29,3 +29,10 @@ yarn build
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+
+
+# Open Graph
+
+## Image Size
+
+- 1200×630 pixels
