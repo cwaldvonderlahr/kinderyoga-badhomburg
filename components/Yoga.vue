@@ -6,13 +6,11 @@
           <div class="relative text-base mx-auto max-w-prose lg:max-w-none">
             <figure>
               <div class="aspect-w-12 aspect-h-7 lg:aspect-none">
-                <img
-                  class="rounded-lg shadow-lg object-cover object-center"
-                  src="~/assets/img/strand.jpg"
-                  alt="Kinderyoga am Strand"
-                  width="655"
-                  height="382"
-                />
+                <picture class="rounded-lg shadow-lg object-cover object-center">
+                  <source srcset="~/assets/img/strand.webp 1x, ~/assets/img/strand@2x.webp 2x" type="image/webp" width="655" height="382">
+                  <source srcset="~/assets/img/strand.jpg 1x, ~/assets/img/strand@2x.jpg 2x"  width="655" height="382">
+                  <img src="~/assets/img/strand.jpg" alt="Kinderyoga am Strand"  width="655" height="382">
+                </picture>
               </div>
             </figure>
           </div>
