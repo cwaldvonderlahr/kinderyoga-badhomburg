@@ -8,6 +8,7 @@
     "tailwind-config-viewer": "tailwind-config-viewer --open --port 3001"
   },
   "devDependencies": {
+    "@nuxt/kit": "^3.0.0-rc.4",
     "autoprefixer": "^10.4.7",
     "nuxt": "3.0.0-rc.4",
     "postcss": "^8.4.14",
