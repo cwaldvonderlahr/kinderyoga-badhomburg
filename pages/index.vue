@@ -16,6 +16,9 @@ useHead({
   title: 'Kinderyoga Bad Homburg | Claudia Röske',
   viewport: 'width=device-width, initial-scale=1, maximum-scale=1',
   charset: 'utf-8',
+  htmlAttrs: {
+      lang: 'de'
+    },
   meta: [
     { name: 'description', content: 'Kinderyoga-Kurse für Kinder von 4-12 Jahren in Bad Homburg, Oberursel, Hochtaunuskreis und Frankfurt.',},
     { name: "robots", content: "index" },
