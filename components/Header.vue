@@ -6,7 +6,7 @@
           <picture class="rounded-lg object-cover object-center">
             <source srcset="/img/logo.webp 1x, /img/logo@2x.webp 2x" type="image/webp" width="1216" height="335">
             <source srcset="/img/logo.jpg 1x, /img/logo@2x.jpg 2x"  width="1216" height="335">
-            <img src="logo.jpg" alt="Logo Kinderyoga Claudia Röske"  width="1216" height="335">
+            <img src="/img/logo.jpg" alt="Logo Kinderyoga Claudia Röske"  width="1216" height="335">
           </picture>
         </NuxtLink>
       </div>
